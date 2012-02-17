@@ -1,0 +1,9 @@
+Domain Name: 	www.alucio.com
+
+This is a global key. It will work across all domains.
+Public Key: 	6Ld_6ssSAAAAAPsHU2mqL6vLEWSjhTahSzAedl9m
+
+Use this in the JavaScript code that is served to your users
+Private Key: 	6Ld_6ssSAAAAABokj57i-VcZcbWKcFm_05Y81F0E
+
+Use this when communicating between your server and our server. Be sure to keep it a secret.

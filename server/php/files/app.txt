@@ -1,0 +1,27 @@
+Summary
+	
+App ID/API Key
+111838748856743
+	
+App Secret
+d38dc12dc5ae920869ee2bdae42d6845
+Site URL
+http://www.sociocircle.com/facebook/
+	
+Canvas Page
+https://apps.facebook.com/sociocircle/
+Canvas URL
+http://www.sociocircle.com/facebook/
+	
+Canvas FBML/iframe
+iframe
+Post-Authorize URL
+http://www.sociocircle.com/facebook/
+	
+Contact Email
+poudel_555@hotmail.com
+Support Email
+poudel_555@hotmail.com
+	
+App Description
+Konnect Thru Notion
